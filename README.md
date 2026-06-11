@@ -25,7 +25,7 @@
 
 Username: ......................... tesla
 Password: ......................... xxxxxx
-OS: ......................... Windows 10, Linux Mint/CachyOS/Ubuntu
+OS: ......................... Windows 10, Linux Mint/CachyOS/Arch btw
 Host: ....................... tesla
 Browser: ..................... Zen/Helium
 
